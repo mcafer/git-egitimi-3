@@ -1,3 +1,0 @@
-debene
-olmadi
-denme
